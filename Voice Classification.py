@@ -16,7 +16,7 @@ warnings.filterwarnings('ignore')
 # In[6]:
 
 
-df=pd.read_csv('E:/Placement courses/ML Projects/Voice Classification/voice-classification.csv')
+df=pd.read_csv('voice-classification.csv')
 df.head()
 
 
